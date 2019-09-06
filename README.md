@@ -29,7 +29,7 @@ presentation of the app on the iOS Store is quite important for having a success
 that can arrive in the tops.
 
 
-<h2><b>Introduction<b></h2>
+<h2><b>Introduction</b></h2>
 
 
   The mobile app industry is frequently changing and this makes developing and maintaining an app

@@ -1,4 +1,4 @@
-# Apps_predicions
+# Apps_predictions
 How app characteristics can affect the success of an app
 
 <h2><b>Abstract</b></h2>
